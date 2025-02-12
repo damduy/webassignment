@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: #d63b18;
+    background-color: #ebef1d;
+    text-align: center;
+    line-height: 150%;
+    
+}
+
+nav{
+    background-color: #80baed;
+}
+
+header{
+    background-color: #a5abab;
+}
+
+nav ul li{
+    display: inline-block;
+    text-align: center;
+    margin: 0 20px;
+    
+}
+
+main{
+    background-color: #d7e8e8;
+}
+
